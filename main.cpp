@@ -28,6 +28,8 @@ int main() {
   
 
   std::vector<std::string> questions_vector;
-  
+  // we wanna add the json to a vecotr of the questions
+  questions_vector = data.get<std::vector<std::string>>();
+  std::cout << questions_vector.size();
   return 0;
 }
