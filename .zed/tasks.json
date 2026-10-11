@@ -1,0 +1,15 @@
+[
+  {
+    "label": "Build and run ProblemLab",
+    "command": "powershell.exe",
+    "args": [
+      "-NoProfile",
+      "-ExecutionPolicy",
+      "Bypass",
+      "-File",
+      ".zed/build-and-run.ps1"
+    ],
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "reveal": "always"
+  }
+]

@@ -1,0 +1,22 @@
+# Local Python environment and caches
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+
+# Build outputs
+*.exe
+build/
+dist/
+output/
+
+# Large local model weights
+*.safetensors
+
+# Sample source document and generated extraction
+AMC_2024_Intermediate.pdf
+AMC_2024_Intermediate.pdf.json
+
+# Editor and OS state
+.DS_Store
+Thumbs.db

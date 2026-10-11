@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++: build active file (debug)",
+      "type": "process",
+      "command": "${env:USERPROFILE}/Downloads/w64devkit/bin/g++.exe",
+      "args": ["-std=c++20", "-O0", "-g3", "-Wall", "-Wextra", "-Wpedantic", "${file}", "-o", "${fileDirname}/${fileBasenameNoExtension}.exe"],
+      "options": {"cwd": "${fileDirname}"},
+      "problemMatcher": ["$gcc"],
+      "group": {"kind": "build", "isDefault": true}
+    },
+    {
+      "label": "C++: build active file (release)",
+      "type": "process",
+      "command": "${env:USERPROFILE}/Downloads/w64devkit/bin/g++.exe",
+      "args": ["-std=c++20", "-O2", "-Wall", "-Wextra", "-Wpedantic", "${file}", "-o", "${fileDirname}/${fileBasenameNoExtension}.exe"],
+      "options": {"cwd": "${fileDirname}"},
+      "problemMatcher": ["$gcc"],
+      "group": "build"
+    },
+    {
+      "label": "C++: build and run active file",
+      "type": "process",
+      "command": "${fileDirname}/${fileBasenameNoExtension}.exe",
+      "options": {"cwd": "${fileDirname}"},
+      "dependsOn": "C++: build active file (release)",
+      "dependsOrder": "sequence",
+      "problemMatcher": [],
+      "presentation": {"reveal": "always", "focus": true, "panel": "dedicated"}
+    }
+  ]
+}

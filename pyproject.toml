@@ -1,0 +1,23 @@
+[project]
+name = "problemlab"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf>=1.28.2",
+    "torch>=2.14.1",
+    "transformers>=5.19.0",
+]
+
+[project.scripts]
+problemlab = "problemlab:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = ""
+
+[tool.basedpyright]
+venvPath = "."
+venv = ".venv"

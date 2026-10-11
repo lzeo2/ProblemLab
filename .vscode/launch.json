@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: debug active file (ProblemLab .venv)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "C++: debug active file (w64devkit GDB)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [{"name": "PATH", "value": "${env:USERPROFILE}/Downloads/w64devkit/bin;${env:PATH}"}],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env:USERPROFILE}/Downloads/w64devkit/bin/gdb.exe",
+      "preLaunchTask": "C++: build active file (debug)"
+    }
+  ]
+}

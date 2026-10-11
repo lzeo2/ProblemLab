@@ -1,0 +1,1595 @@
+1.
+Of the following, which is closest to 14?
+(A) 14.4
+(B) 13.84
+(C) 14.14
+(D) 13.68
+(E) 14.21
+2.
+What is the value of (57 × 346) + (43 × 346)?
+(A) 14 878
+(B) 19 722
+(C) 31 500
+(D) 34 600
+(E) 46 300
+3.
+What is the value of x in the diagram?
+(A) 40
+(B) 50
+(C) 60
+(D) 70
+(E) 80
+80◦
+120◦
+x◦
+4.
+The average of 2024 and an unknown number is 21
+2. What is the unknown number?
+(A) 2019
+(B) −2019
+(C) 2029
+(D) −2029
+(E) −2024
+5.
+What is the area of the shape drawn in
+the grid?
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11
+6.
+Let p be 12% of 300 and q be 6% of 600. What is the difference between p and q?
+(A) 0
+(B) 2
+(C) 6
+(D) 12
+(E) 30
+7.
+The largest integer n for which 0.6n is less than 17 is
+(A) 9
+(B) 10
+(C) 11
+(D) 26
+(E) 28
+8.
+Pat has 12 eggs, 2 kg of flour, and 2 L of milk. His pancake
+recipe calls for 2 eggs, 250 g of flour and 400 mL of milk.
+He makes as many pancakes as he can while using the
+ingredients in the proportions given in the recipe.
+How much flour will he have left?
+(A) None
+(B) 250 g
+(C) 500 g
+(D) 625 g
+(E) 750 g
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+9.
+Theo’s collection of toy dinosaurs is stored in two containers. He noticed that one
+of the containers had 4 times as many dinosaurs in it as the other. He moved 18 to
+the other container so that the two containers had the same number.
+How many dinosaurs are in Theo’s collection?
+(A) 40
+(B) 45
+(C) 50
+(D) 55
+(E) 60
+10. Eiliyah is drawing an isosceles triangle on the
+number plane. It has an area of 6 square units.
+She has already plotted two vertices of the
+triangle, at (1, 1) and (3, 1).
+Which of the following could be the coordinates
+of the third vertex of the triangle?
+(A) (2, 3)
+(B) (2, 4)
+(C) (2, 6)
+(D) (2, −3)
+(E) (2, −5)
+−4
+−2
+Questions 11 to 20, 4 marks each
+11. Yalis has to take a tablet every 9 hours. The course of medication is 15 tablets. He
+takes his first tablet at 11 am on Tuesday. When will he take his last tablet?
+(A) 2 pm Wednesday
+(B) 5 am Friday
+(C) 5 pm Sunday
+(D) 4 am Monday
+(E) 8 pm Tuesday
+12. How many digits are in the number 2024?
+(A) 7
+(B) 10
+(C) 12
+(D) 18
+(E) 81
+13. In the diagram, the concentric
+circles are equally spaced, with radii
+from 1 to 6, and the lines from the
+origin are equally spaced 20◦apart.
+Which of these five areas is largest?
+(A) A
+(B) B
+(C) C
+(D) D
+(E) E
+20◦
+A
+40◦
+B
+60◦
+C
+80◦
+D
+100◦
+E
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+14. Kate and Jim exercise at their local beach, going from one end to the other and
+back. Starting together, Kate jogs at a steady pace of 10 km per hour, while Jim
+walks at 6 km per hour. They first meet again after 30 minutes. How long, in
+kilometres, is the beach?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+15. This star has order-10 rotational symmetry, with 10 internal
+right angles as shown. What is the size of each of the obtuse
+angles marked with a dot?
+(A) 120◦
+(B) 126◦
+(C) 132◦
+(D) 138◦
+(E) 142◦
+16. A game uses the two spinners shown. The
+player who spins the higher number wins.
+Equal spins are a draw.
+What is the probability that player one
+wins?
+(A) 1
+(B) 1
+(C) 1
+(D) 2
+(E) 5
+Player one
+Player two
+17. When the number 9045 is split into two 2-digit numbers, the first number is twice
+the second number: 90 = 2 × 45. Many other 4-digit numbers can be split into two
+2-digit numbers where the first number is twice the second.
+There is a unique 2-digit number that divides into all such 4-digit numbers. What
+is this number?
+(A) 18
+(B) 35
+(C) 45
+(D) 52
+(E) 67
+18. Triangle ABC has a right angle at A, and side AC is twice as
+long as AB. Also MN is the perpendicular bisector of BC,
+as shown.
+In area, what fraction of △ABC is △CMN?
+(A) 1
+(B)
+√
+(C) 2
+(D)
+√
+(E) 5
+A
+B
+C
+M
+N
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+19. A researcher surveys 10 households and creates this
+scatterplot showing how many people and how
+many internet-connected devices are in each house.
+To help categorise her data, she adds a vertical line
+representing the median number of people and a
+horizontal line representing the median number of
+devices.
+One extra household is surveyed and the results are
+added to the scatterplot. What will happen to the
+median lines?
+devices
+people
+(A) Both lines move.
+(C) Only the vertical line moves.
+(B) Neither line moves.
+(D) Only the horizontal line moves.
+(E) It depends on the location of the new point.
+20. I make up all the 5 digit numbers that use each of the digits from 1 to 5 once.
+I then arrange these 120 numbers in increasing order from 12 345 to 54 321.
+Which number is the 42nd in this order?
+(A) 15 234
+(B) 21 354
+(C) 23 154
+(D) 24 531
+(E) 24 513
+Questions 21 to 25, 5 marks each
+21. A tank in the shape of a rectangular
+prism has dimensions as shown. It
+contains water to a depth of 12 cm.
+A solid cube of side 20 cm is placed
+into the tank, with one face flat on the
+bottom of the tank.
+By how much will the water level in the tank increase?
+50 cm
+12 cm
+12 cm
+40 cm
+24 cm
+(A) 3 cm
+(B) 4 cm
+(C) 5 cm
+(D) 8 cm
+(E) 12 cm
+22. February 2024 had 5 Thursdays. When will February next have 5 Thursdays?
+(A) 2028
+(B) 2044
+(C) 2048
+(D) 2052
+(E) 2080
+23. A group of tourists stayed in two rooms when visiting a museum. The average age
+of the tourists in the first room was 45 and the average age of the tourists in the
+second room was 20. When one tourist walked from the first room to the second,
+the average ages in each room increased by 1. If the second group had 7 more
+tourists at the beginning, what was the age of the tourist who moved rooms?
+(A) 36
+(B) 37
+(C) 38
+(D) 39
+(E) 40
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+24. Abi is walking beside a lake. In the distance she can see a tree and its reflection on
+the surface of the lake. There is a depth indicator 5 metres away from her with its
+0-metre mark at the lake surface level.
+Abi
+Depth
+indicator
+From Abi’s point of view, the top of the tree is in line with the 1.8-metre mark on
+the depth indicator, while the reflection of the top of the tree is in line with the
+1.1-metre mark. Abi’s eyes are level with the 1.5-metre mark. How tall is the tree
+in metres?
+(A) 9
+(B) 9.5
+(C) 10
+(D) 10.5
+(E) 11
+25. Six maths students, Amy, Bao, Cecil, Daria, Emilia and Felipe are given
+60 problems to complete over the weekend. Although none of them completes all
+60, each completes at least 52 of the problems, and each one completes a different
+number of problems. Also the order from least to most problems is the same as the
+alphabetical order of their names. Finally, each of them completes k times as many
+problems on Saturday as they do on Sunday, where k is a different whole number
+from 1 to 6 for each of them.
+Which of them completed 3 times as many problems on Saturday as on Sunday?
+(A) Amy
+(B) Bao
+(C) Cecil
+(D) Daria
+(E) Emilia
+For questions 26 to 30, shade the answer as an integer from 0 to 999
+in the space provided on the answer sheet.
+Questions 26–30 are worth 6, 7, 8, 9 and 10 marks, respectively.
+26. In the multiplication puzzle shown, a, b and c represent different digits.
+a a b b
+×
+c
+c b b c
+There is more than one way to solve this puzzle. What is the sum of all possible
+three-digit numbers of the form abc?
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+27. Rodney builds increasingly large shapes out of unit rods. The smallest uses six rods
+and each larger shape adds a layer of hexagons around the previous shape.
+Starting with 2024 rods, Rodney builds a single shape like this, as large as possible.
+How many rods will he have left over?
+28. Let x, y and z be positive integers satisfying the following three equations:
+xy + x + y
+=
+yz + y + z
+=
+zx + z + x
+=
+728.
+What is the value of x + y + z?
+29. Tim uses plug-in timers to automate his indoor plant
+lighting. Each timer has a plug on the back, a socket on
+the front, and a motorised dial that rotates once for every
+24 hours that the plug has power.
+When the time on the dial is between 9:00 and 17:00, the
+timer switch is on, so that any power on the plug is
+switched through to the socket.
+For fun, he plugs together three of his timers, all set to
+time 0:00, with a lamp plugged into the front socket. How
+many hours until the lamp turns on?
+
+30. A triangle, △ABC, has sides AB = 18, AC = 24, and BC = 30. Point P is on side
+AB and a line is drawn through P so that half of the perimeter of △ABC lies on
+each side of the line and half of the area of △ABC lies on each side of the line.
+What is the square of the distance CP?
+AMC2024 Final — cleaned copy
+15/8/2024
+1.
+Of the following, which is closest to 14?
+(A) 14.4
+(B) 13.84
+(C) 14.14
+(D) 13.68
+(E) 14.21
+2.
+What is the value of (57 × 346) + (43 × 346)?
+(A) 14 878
+(B) 19 722
+(C) 31 500
+(D) 34 600
+(E) 46 300
+3.
+What is the value of x in the diagram?
+(A) 40
+(B) 50
+(C) 60
+(D) 70
+(E) 80
+80◦
+120◦
+x◦
+4.
+The average of 2024 and an unknown number is 21
+2. What is the unknown number?
+(A) 2019
+(B) −2019
+(C) 2029
+(D) −2029
+(E) −2024
+5.
+What is the area of the shape drawn in
+the grid?
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11
+6.
+Let p be 12% of 300 and q be 6% of 600. What is the difference between p and q?
+(A) 0
+(B) 2
+(C) 6
+(D) 12
+(E) 30
+7.
+The largest integer n for which 0.6n is less than 17 is
+(A) 9
+(B) 10
+(C) 11
+(D) 26
+(E) 28
+8.
+Pat has 12 eggs, 2 kg of flour, and 2 L of milk. His pancake
+recipe calls for 2 eggs, 250 g of flour and 400 mL of milk.
+He makes as many pancakes as he can while using the
+ingredients in the proportions given in the recipe.
+How much flour will he have left?
+(A) None
+(B) 250 g
+(C) 500 g
+(D) 625 g
+(E) 750 g
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+9.
+Theo’s collection of toy dinosaurs is stored in two containers. He noticed that one
+of the containers had 4 times as many dinosaurs in it as the other. He moved 18 to
+the other container so that the two containers had the same number.
+How many dinosaurs are in Theo’s collection?
+(A) 40
+(B) 45
+(C) 50
+(D) 55
+(E) 60
+10. Eiliyah is drawing an isosceles triangle on the
+number plane. It has an area of 6 square units.
+She has already plotted two vertices of the
+triangle, at (1, 1) and (3, 1).
+Which of the following could be the coordinates
+of the third vertex of the triangle?
+(A) (2, 3)
+(B) (2, 4)
+(C) (2, 6)
+(D) (2, −3)
+(E) (2, −5)
+−4
+−2
+Questions 11 to 20, 4 marks each
+11. Yalis has to take a tablet every 9 hours. The course of medication is 15 tablets. He
+takes his first tablet at 11 am on Tuesday. When will he take his last tablet?
+(A) 2 pm Wednesday
+(B) 5 am Friday
+(C) 5 pm Sunday
+(D) 4 am Monday
+(E) 8 pm Tuesday
+12. How many digits are in the number 2024?
+(A) 7
+(B) 10
+(C) 12
+(D) 18
+(E) 81
+13. In the diagram, the concentric
+circles are equally spaced, with radii
+from 1 to 6, and the lines from the
+origin are equally spaced 20◦apart.
+Which of these five areas is largest?
+(A) A
+(B) B
+(C) C
+(D) D
+(E) E
+20◦
+A
+40◦
+B
+60◦
+C
+80◦
+D
+100◦
+E
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+14. Kate and Jim exercise at their local beach, going from one end to the other and
+back. Starting together, Kate jogs at a steady pace of 10 km per hour, while Jim
+walks at 6 km per hour. They first meet again after 30 minutes. How long, in
+kilometres, is the beach?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+15. This star has order-10 rotational symmetry, with 10 internal
+right angles as shown. What is the size of each of the obtuse
+angles marked with a dot?
+(A) 120◦
+(B) 126◦
+(C) 132◦
+(D) 138◦
+(E) 142◦
+16. A game uses the two spinners shown. The
+player who spins the higher number wins.
+Equal spins are a draw.
+What is the probability that player one
+wins?
+(A) 1
+(B) 1
+(C) 1
+(D) 2
+(E) 5
+Player one
+Player two
+17. When the number 9045 is split into two 2-digit numbers, the first number is twice
+the second number: 90 = 2 × 45. Many other 4-digit numbers can be split into two
+2-digit numbers where the first number is twice the second.
+There is a unique 2-digit number that divides into all such 4-digit numbers. What
+is this number?
+(A) 18
+(B) 35
+(C) 45
+(D) 52
+(E) 67
+18. Triangle ABC has a right angle at A, and side AC is twice as
+long as AB. Also MN is the perpendicular bisector of BC,
+as shown.
+In area, what fraction of △ABC is △CMN?
+(A) 1
+(B)
+√
+(C) 2
+(D)
+√
+(E) 5
+A
+B
+C
+M
+N
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+19. A researcher surveys 10 households and creates this
+scatterplot showing how many people and how
+many internet-connected devices are in each house.
+To help categorise her data, she adds a vertical line
+representing the median number of people and a
+horizontal line representing the median number of
+devices.
+One extra household is surveyed and the results are
+added to the scatterplot. What will happen to the
+median lines?
+devices
+people
+(A) Both lines move.
+(C) Only the vertical line moves.
+(B) Neither line moves.
+(D) Only the horizontal line moves.
+(E) It depends on the location of the new point.
+20. I make up all the 5 digit numbers that use each of the digits from 1 to 5 once.
+I then arrange these 120 numbers in increasing order from 12 345 to 54 321.
+Which number is the 42nd in this order?
+(A) 15 234
+(B) 21 354
+(C) 23 154
+(D) 24 531
+(E) 24 513
+Questions 21 to 25, 5 marks each
+21. A tank in the shape of a rectangular
+prism has dimensions as shown. It
+contains water to a depth of 12 cm.
+A solid cube of side 20 cm is placed
+into the tank, with one face flat on the
+bottom of the tank.
+By how much will the water level in the tank increase?
+50 cm
+12 cm
+12 cm
+40 cm
+24 cm
+(A) 3 cm
+(B) 4 cm
+(C) 5 cm
+(D) 8 cm
+(E) 12 cm
+22. February 2024 had 5 Thursdays. When will February next have 5 Thursdays?
+(A) 2028
+(B) 2044
+(C) 2048
+(D) 2052
+(E) 2080
+23. A group of tourists stayed in two rooms when visiting a museum. The average age
+of the tourists in the first room was 45 and the average age of the tourists in the
+second room was 20. When one tourist walked from the first room to the second,
+the average ages in each room increased by 1. If the second group had 7 more
+tourists at the beginning, what was the age of the tourist who moved rooms?
+(A) 36
+(B) 37
+(C) 38
+(D) 39
+(E) 40
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+24. Abi is walking beside a lake. In the distance she can see a tree and its reflection on
+the surface of the lake. There is a depth indicator 5 metres away from her with its
+0-metre mark at the lake surface level.
+Abi
+Depth
+indicator
+From Abi’s point of view, the top of the tree is in line with the 1.8-metre mark on
+the depth indicator, while the reflection of the top of the tree is in line with the
+1.1-metre mark. Abi’s eyes are level with the 1.5-metre mark. How tall is the tree
+in metres?
+(A) 9
+(B) 9.5
+(C) 10
+(D) 10.5
+(E) 11
+25. Six maths students, Amy, Bao, Cecil, Daria, Emilia and Felipe are given
+60 problems to complete over the weekend. Although none of them completes all
+60, each completes at least 52 of the problems, and each one completes a different
+number of problems. Also the order from least to most problems is the same as the
+alphabetical order of their names. Finally, each of them completes k times as many
+problems on Saturday as they do on Sunday, where k is a different whole number
+from 1 to 6 for each of them.
+Which of them completed 3 times as many problems on Saturday as on Sunday?
+(A) Amy
+(B) Bao
+(C) Cecil
+(D) Daria
+(E) Emilia
+For questions 26 to 30, shade the answer as an integer from 0 to 999
+in the space provided on the answer sheet.
+Questions 26–30 are worth 6, 7, 8, 9 and 10 marks, respectively.
+26. In the multiplication puzzle shown, a, b and c represent different digits.
+a a b b
+×
+c
+c b b c
+There is more than one way to solve this puzzle. What is the sum of all possible
+three-digit numbers of the form abc?
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+27. Rodney builds increasingly large shapes out of unit rods. The smallest uses six rods
+and each larger shape adds a layer of hexagons around the previous shape.
+Starting with 2024 rods, Rodney builds a single shape like this, as large as possible.
+How many rods will he have left over?
+28. Let x, y and z be positive integers satisfying the following three equations:
+xy + x + y
+=
+yz + y + z
+=
+zx + z + x
+=
+728.
+What is the value of x + y + z?
+29. Tim uses plug-in timers to automate his indoor plant
+lighting. Each timer has a plug on the back, a socket on
+the front, and a motorised dial that rotates once for every
+24 hours that the plug has power.
+When the time on the dial is between 9:00 and 17:00, the
+timer switch is on, so that any power on the plug is
+switched through to the socket.
+For fun, he plugs together three of his timers, all set to
+time 0:00, with a lamp plugged into the front socket. How
+many hours until the lamp turns on?
+
+30. A triangle, △ABC, has sides AB = 18, AC = 24, and BC = 30. Point P is on side
+AB and a line is drawn through P so that half of the perimeter of △ABC lies on
+each side of the line and half of the area of △ABC lies on each side of the line.
+What is the square of the distance CP?
+AMC2024 Final — cleaned copy
+15/8/2024
+1.
+Of the following, which is closest to 14?
+(A) 14.4
+(B) 13.84
+(C) 14.14
+(D) 13.68
+(E) 14.21
+2.
+What is the value of (57 × 346) + (43 × 346)?
+(A) 14 878
+(B) 19 722
+(C) 31 500
+(D) 34 600
+(E) 46 300
+3.
+What is the value of x in the diagram?
+(A) 40
+(B) 50
+(C) 60
+(D) 70
+(E) 80
+80◦
+120◦
+x◦
+4.
+The average of 2024 and an unknown number is 21
+2. What is the unknown number?
+(A) 2019
+(B) −2019
+(C) 2029
+(D) −2029
+(E) −2024
+5.
+What is the area of the shape drawn in
+the grid?
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11
+6.
+Let p be 12% of 300 and q be 6% of 600. What is the difference between p and q?
+(A) 0
+(B) 2
+(C) 6
+(D) 12
+(E) 30
+7.
+The largest integer n for which 0.6n is less than 17 is
+(A) 9
+(B) 10
+(C) 11
+(D) 26
+(E) 28
+8.
+Pat has 12 eggs, 2 kg of flour, and 2 L of milk. His pancake
+recipe calls for 2 eggs, 250 g of flour and 400 mL of milk.
+He makes as many pancakes as he can while using the
+ingredients in the proportions given in the recipe.
+How much flour will he have left?
+(A) None
+(B) 250 g
+(C) 500 g
+(D) 625 g
+(E) 750 g
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+9.
+Theo’s collection of toy dinosaurs is stored in two containers. He noticed that one
+of the containers had 4 times as many dinosaurs in it as the other. He moved 18 to
+the other container so that the two containers had the same number.
+How many dinosaurs are in Theo’s collection?
+(A) 40
+(B) 45
+(C) 50
+(D) 55
+(E) 60
+10. Eiliyah is drawing an isosceles triangle on the
+number plane. It has an area of 6 square units.
+She has already plotted two vertices of the
+triangle, at (1, 1) and (3, 1).
+Which of the following could be the coordinates
+of the third vertex of the triangle?
+(A) (2, 3)
+(B) (2, 4)
+(C) (2, 6)
+(D) (2, −3)
+(E) (2, −5)
+−4
+−2
+Questions 11 to 20, 4 marks each
+11. Yalis has to take a tablet every 9 hours. The course of medication is 15 tablets. He
+takes his first tablet at 11 am on Tuesday. When will he take his last tablet?
+(A) 2 pm Wednesday
+(B) 5 am Friday
+(C) 5 pm Sunday
+(D) 4 am Monday
+(E) 8 pm Tuesday
+12. How many digits are in the number 2024?
+(A) 7
+(B) 10
+(C) 12
+(D) 18
+(E) 81
+13. In the diagram, the concentric
+circles are equally spaced, with radii
+from 1 to 6, and the lines from the
+origin are equally spaced 20◦apart.
+Which of these five areas is largest?
+(A) A
+(B) B
+(C) C
+(D) D
+(E) E
+20◦
+A
+40◦
+B
+60◦
+C
+80◦
+D
+100◦
+E
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+14. Kate and Jim exercise at their local beach, going from one end to the other and
+back. Starting together, Kate jogs at a steady pace of 10 km per hour, while Jim
+walks at 6 km per hour. They first meet again after 30 minutes. How long, in
+kilometres, is the beach?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+15. This star has order-10 rotational symmetry, with 10 internal
+right angles as shown. What is the size of each of the obtuse
+angles marked with a dot?
+(A) 120◦
+(B) 126◦
+(C) 132◦
+(D) 138◦
+(E) 142◦
+16. A game uses the two spinners shown. The
+player who spins the higher number wins.
+Equal spins are a draw.
+What is the probability that player one
+wins?
+(A) 1
+(B) 1
+(C) 1
+(D) 2
+(E) 5
+Player one
+Player two
+17. When the number 9045 is split into two 2-digit numbers, the first number is twice
+the second number: 90 = 2 × 45. Many other 4-digit numbers can be split into two
+2-digit numbers where the first number is twice the second.
+There is a unique 2-digit number that divides into all such 4-digit numbers. What
+is this number?
+(A) 18
+(B) 35
+(C) 45
+(D) 52
+(E) 67
+18. Triangle ABC has a right angle at A, and side AC is twice as
+long as AB. Also MN is the perpendicular bisector of BC,
+as shown.
+In area, what fraction of △ABC is △CMN?
+(A) 1
+(B)
+√
+(C) 2
+(D)
+√
+(E) 5
+A
+B
+C
+M
+N
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+19. A researcher surveys 10 households and creates this
+scatterplot showing how many people and how
+many internet-connected devices are in each house.
+To help categorise her data, she adds a vertical line
+representing the median number of people and a
+horizontal line representing the median number of
+devices.
+One extra household is surveyed and the results are
+added to the scatterplot. What will happen to the
+median lines?
+devices
+people
+(A) Both lines move.
+(C) Only the vertical line moves.
+(B) Neither line moves.
+(D) Only the horizontal line moves.
+(E) It depends on the location of the new point.
+20. I make up all the 5 digit numbers that use each of the digits from 1 to 5 once.
+I then arrange these 120 numbers in increasing order from 12 345 to 54 321.
+Which number is the 42nd in this order?
+(A) 15 234
+(B) 21 354
+(C) 23 154
+(D) 24 531
+(E) 24 513
+Questions 21 to 25, 5 marks each
+21. A tank in the shape of a rectangular
+prism has dimensions as shown. It
+contains water to a depth of 12 cm.
+A solid cube of side 20 cm is placed
+into the tank, with one face flat on the
+bottom of the tank.
+By how much will the water level in the tank increase?
+50 cm
+12 cm
+12 cm
+40 cm
+24 cm
+(A) 3 cm
+(B) 4 cm
+(C) 5 cm
+(D) 8 cm
+(E) 12 cm
+22. February 2024 had 5 Thursdays. When will February next have 5 Thursdays?
+(A) 2028
+(B) 2044
+(C) 2048
+(D) 2052
+(E) 2080
+23. A group of tourists stayed in two rooms when visiting a museum. The average age
+of the tourists in the first room was 45 and the average age of the tourists in the
+second room was 20. When one tourist walked from the first room to the second,
+the average ages in each room increased by 1. If the second group had 7 more
+tourists at the beginning, what was the age of the tourist who moved rooms?
+(A) 36
+(B) 37
+(C) 38
+(D) 39
+(E) 40
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+24. Abi is walking beside a lake. In the distance she can see a tree and its reflection on
+the surface of the lake. There is a depth indicator 5 metres away from her with its
+0-metre mark at the lake surface level.
+Abi
+Depth
+indicator
+From Abi’s point of view, the top of the tree is in line with the 1.8-metre mark on
+the depth indicator, while the reflection of the top of the tree is in line with the
+1.1-metre mark. Abi’s eyes are level with the 1.5-metre mark. How tall is the tree
+in metres?
+(A) 9
+(B) 9.5
+(C) 10
+(D) 10.5
+(E) 11
+25. Six maths students, Amy, Bao, Cecil, Daria, Emilia and Felipe are given
+60 problems to complete over the weekend. Although none of them completes all
+60, each completes at least 52 of the problems, and each one completes a different
+number of problems. Also the order from least to most problems is the same as the
+alphabetical order of their names. Finally, each of them completes k times as many
+problems on Saturday as they do on Sunday, where k is a different whole number
+from 1 to 6 for each of them.
+Which of them completed 3 times as many problems on Saturday as on Sunday?
+(A) Amy
+(B) Bao
+(C) Cecil
+(D) Daria
+(E) Emilia
+For questions 26 to 30, shade the answer as an integer from 0 to 999
+in the space provided on the answer sheet.
+Questions 26–30 are worth 6, 7, 8, 9 and 10 marks, respectively.
+26. In the multiplication puzzle shown, a, b and c represent different digits.
+a a b b
+×
+c
+c b b c
+There is more than one way to solve this puzzle. What is the sum of all possible
+three-digit numbers of the form abc?
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+27. Rodney builds increasingly large shapes out of unit rods. The smallest uses six rods
+and each larger shape adds a layer of hexagons around the previous shape.
+Starting with 2024 rods, Rodney builds a single shape like this, as large as possible.
+How many rods will he have left over?
+28. Let x, y and z be positive integers satisfying the following three equations:
+xy + x + y
+=
+yz + y + z
+=
+zx + z + x
+=
+728.
+What is the value of x + y + z?
+29. Tim uses plug-in timers to automate his indoor plant
+lighting. Each timer has a plug on the back, a socket on
+the front, and a motorised dial that rotates once for every
+24 hours that the plug has power.
+When the time on the dial is between 9:00 and 17:00, the
+timer switch is on, so that any power on the plug is
+switched through to the socket.
+For fun, he plugs together three of his timers, all set to
+time 0:00, with a lamp plugged into the front socket. How
+many hours until the lamp turns on?
+
+30. A triangle, △ABC, has sides AB = 18, AC = 24, and BC = 30. Point P is on side
+AB and a line is drawn through P so that half of the perimeter of △ABC lies on
+each side of the line and half of the area of △ABC lies on each side of the line.
+What is the square of the distance CP?
+AMC2024 Final — cleaned copy
+15/8/2024
+1.
+Of the following, which is closest to 14?
+(A) 14.4
+(B) 13.84
+(C) 14.14
+(D) 13.68
+(E) 14.21
+2.
+What is the value of (57 × 346) + (43 × 346)?
+(A) 14 878
+(B) 19 722
+(C) 31 500
+(D) 34 600
+(E) 46 300
+3.
+What is the value of x in the diagram?
+(A) 40
+(B) 50
+(C) 60
+(D) 70
+(E) 80
+80◦
+120◦
+x◦
+4.
+The average of 2024 and an unknown number is 21
+2. What is the unknown number?
+(A) 2019
+(B) −2019
+(C) 2029
+(D) −2029
+(E) −2024
+5.
+What is the area of the shape drawn in
+the grid?
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11
+6.
+Let p be 12% of 300 and q be 6% of 600. What is the difference between p and q?
+(A) 0
+(B) 2
+(C) 6
+(D) 12
+(E) 30
+7.
+The largest integer n for which 0.6n is less than 17 is
+(A) 9
+(B) 10
+(C) 11
+(D) 26
+(E) 28
+8.
+Pat has 12 eggs, 2 kg of flour, and 2 L of milk. His pancake
+recipe calls for 2 eggs, 250 g of flour and 400 mL of milk.
+He makes as many pancakes as he can while using the
+ingredients in the proportions given in the recipe.
+How much flour will he have left?
+(A) None
+(B) 250 g
+(C) 500 g
+(D) 625 g
+(E) 750 g
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+9.
+Theo’s collection of toy dinosaurs is stored in two containers. He noticed that one
+of the containers had 4 times as many dinosaurs in it as the other. He moved 18 to
+the other container so that the two containers had the same number.
+How many dinosaurs are in Theo’s collection?
+(A) 40
+(B) 45
+(C) 50
+(D) 55
+(E) 60
+10. Eiliyah is drawing an isosceles triangle on the
+number plane. It has an area of 6 square units.
+She has already plotted two vertices of the
+triangle, at (1, 1) and (3, 1).
+Which of the following could be the coordinates
+of the third vertex of the triangle?
+(A) (2, 3)
+(B) (2, 4)
+(C) (2, 6)
+(D) (2, −3)
+(E) (2, −5)
+−4
+−2
+Questions 11 to 20, 4 marks each
+11. Yalis has to take a tablet every 9 hours. The course of medication is 15 tablets. He
+takes his first tablet at 11 am on Tuesday. When will he take his last tablet?
+(A) 2 pm Wednesday
+(B) 5 am Friday
+(C) 5 pm Sunday
+(D) 4 am Monday
+(E) 8 pm Tuesday
+12. How many digits are in the number 2024?
+(A) 7
+(B) 10
+(C) 12
+(D) 18
+(E) 81
+13. In the diagram, the concentric
+circles are equally spaced, with radii
+from 1 to 6, and the lines from the
+origin are equally spaced 20◦apart.
+Which of these five areas is largest?
+(A) A
+(B) B
+(C) C
+(D) D
+(E) E
+20◦
+A
+40◦
+B
+60◦
+C
+80◦
+D
+100◦
+E
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+14. Kate and Jim exercise at their local beach, going from one end to the other and
+back. Starting together, Kate jogs at a steady pace of 10 km per hour, while Jim
+walks at 6 km per hour. They first meet again after 30 minutes. How long, in
+kilometres, is the beach?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+15. This star has order-10 rotational symmetry, with 10 internal
+right angles as shown. What is the size of each of the obtuse
+angles marked with a dot?
+(A) 120◦
+(B) 126◦
+(C) 132◦
+(D) 138◦
+(E) 142◦
+16. A game uses the two spinners shown. The
+player who spins the higher number wins.
+Equal spins are a draw.
+What is the probability that player one
+wins?
+(A) 1
+(B) 1
+(C) 1
+(D) 2
+(E) 5
+Player one
+Player two
+17. When the number 9045 is split into two 2-digit numbers, the first number is twice
+the second number: 90 = 2 × 45. Many other 4-digit numbers can be split into two
+2-digit numbers where the first number is twice the second.
+There is a unique 2-digit number that divides into all such 4-digit numbers. What
+is this number?
+(A) 18
+(B) 35
+(C) 45
+(D) 52
+(E) 67
+18. Triangle ABC has a right angle at A, and side AC is twice as
+long as AB. Also MN is the perpendicular bisector of BC,
+as shown.
+In area, what fraction of △ABC is △CMN?
+(A) 1
+(B)
+√
+(C) 2
+(D)
+√
+(E) 5
+A
+B
+C
+M
+N
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+19. A researcher surveys 10 households and creates this
+scatterplot showing how many people and how
+many internet-connected devices are in each house.
+To help categorise her data, she adds a vertical line
+representing the median number of people and a
+horizontal line representing the median number of
+devices.
+One extra household is surveyed and the results are
+added to the scatterplot. What will happen to the
+median lines?
+devices
+people
+(A) Both lines move.
+(C) Only the vertical line moves.
+(B) Neither line moves.
+(D) Only the horizontal line moves.
+(E) It depends on the location of the new point.
+20. I make up all the 5 digit numbers that use each of the digits from 1 to 5 once.
+I then arrange these 120 numbers in increasing order from 12 345 to 54 321.
+Which number is the 42nd in this order?
+(A) 15 234
+(B) 21 354
+(C) 23 154
+(D) 24 531
+(E) 24 513
+Questions 21 to 25, 5 marks each
+21. A tank in the shape of a rectangular
+prism has dimensions as shown. It
+contains water to a depth of 12 cm.
+A solid cube of side 20 cm is placed
+into the tank, with one face flat on the
+bottom of the tank.
+By how much will the water level in the tank increase?
+50 cm
+12 cm
+12 cm
+40 cm
+24 cm
+(A) 3 cm
+(B) 4 cm
+(C) 5 cm
+(D) 8 cm
+(E) 12 cm
+22. February 2024 had 5 Thursdays. When will February next have 5 Thursdays?
+(A) 2028
+(B) 2044
+(C) 2048
+(D) 2052
+(E) 2080
+23. A group of tourists stayed in two rooms when visiting a museum. The average age
+of the tourists in the first room was 45 and the average age of the tourists in the
+second room was 20. When one tourist walked from the first room to the second,
+the average ages in each room increased by 1. If the second group had 7 more
+tourists at the beginning, what was the age of the tourist who moved rooms?
+(A) 36
+(B) 37
+(C) 38
+(D) 39
+(E) 40
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+24. Abi is walking beside a lake. In the distance she can see a tree and its reflection on
+the surface of the lake. There is a depth indicator 5 metres away from her with its
+0-metre mark at the lake surface level.
+Abi
+Depth
+indicator
+From Abi’s point of view, the top of the tree is in line with the 1.8-metre mark on
+the depth indicator, while the reflection of the top of the tree is in line with the
+1.1-metre mark. Abi’s eyes are level with the 1.5-metre mark. How tall is the tree
+in metres?
+(A) 9
+(B) 9.5
+(C) 10
+(D) 10.5
+(E) 11
+25. Six maths students, Amy, Bao, Cecil, Daria, Emilia and Felipe are given
+60 problems to complete over the weekend. Although none of them completes all
+60, each completes at least 52 of the problems, and each one completes a different
+number of problems. Also the order from least to most problems is the same as the
+alphabetical order of their names. Finally, each of them completes k times as many
+problems on Saturday as they do on Sunday, where k is a different whole number
+from 1 to 6 for each of them.
+Which of them completed 3 times as many problems on Saturday as on Sunday?
+(A) Amy
+(B) Bao
+(C) Cecil
+(D) Daria
+(E) Emilia
+For questions 26 to 30, shade the answer as an integer from 0 to 999
+in the space provided on the answer sheet.
+Questions 26–30 are worth 6, 7, 8, 9 and 10 marks, respectively.
+26. In the multiplication puzzle shown, a, b and c represent different digits.
+a a b b
+×
+c
+c b b c
+There is more than one way to solve this puzzle. What is the sum of all possible
+three-digit numbers of the form abc?
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+27. Rodney builds increasingly large shapes out of unit rods. The smallest uses six rods
+and each larger shape adds a layer of hexagons around the previous shape.
+Starting with 2024 rods, Rodney builds a single shape like this, as large as possible.
+How many rods will he have left over?
+28. Let x, y and z be positive integers satisfying the following three equations:
+xy + x + y
+=
+yz + y + z
+=
+zx + z + x
+=
+728.
+What is the value of x + y + z?
+29. Tim uses plug-in timers to automate his indoor plant
+lighting. Each timer has a plug on the back, a socket on
+the front, and a motorised dial that rotates once for every
+24 hours that the plug has power.
+When the time on the dial is between 9:00 and 17:00, the
+timer switch is on, so that any power on the plug is
+switched through to the socket.
+For fun, he plugs together three of his timers, all set to
+time 0:00, with a lamp plugged into the front socket. How
+many hours until the lamp turns on?
+
+30. A triangle, △ABC, has sides AB = 18, AC = 24, and BC = 30. Point P is on side
+AB and a line is drawn through P so that half of the perimeter of △ABC lies on
+each side of the line and half of the area of △ABC lies on each side of the line.
+What is the square of the distance CP?
+AMC2024 Final — cleaned copy
+15/8/2024
+1.
+Of the following, which is closest to 14?
+(A) 14.4
+(B) 13.84
+(C) 14.14
+(D) 13.68
+(E) 14.21
+2.
+What is the value of (57 × 346) + (43 × 346)?
+(A) 14 878
+(B) 19 722
+(C) 31 500
+(D) 34 600
+(E) 46 300
+3.
+What is the value of x in the diagram?
+(A) 40
+(B) 50
+(C) 60
+(D) 70
+(E) 80
+80◦
+120◦
+x◦
+4.
+The average of 2024 and an unknown number is 21
+2. What is the unknown number?
+(A) 2019
+(B) −2019
+(C) 2029
+(D) −2029
+(E) −2024
+5.
+What is the area of the shape drawn in
+the grid?
+(A) 7
+(B) 8
+(C) 9
+(D) 10
+(E) 11
+6.
+Let p be 12% of 300 and q be 6% of 600. What is the difference between p and q?
+(A) 0
+(B) 2
+(C) 6
+(D) 12
+(E) 30
+7.
+The largest integer n for which 0.6n is less than 17 is
+(A) 9
+(B) 10
+(C) 11
+(D) 26
+(E) 28
+8.
+Pat has 12 eggs, 2 kg of flour, and 2 L of milk. His pancake
+recipe calls for 2 eggs, 250 g of flour and 400 mL of milk.
+He makes as many pancakes as he can while using the
+ingredients in the proportions given in the recipe.
+How much flour will he have left?
+(A) None
+(B) 250 g
+(C) 500 g
+(D) 625 g
+(E) 750 g
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+9.
+Theo’s collection of toy dinosaurs is stored in two containers. He noticed that one
+of the containers had 4 times as many dinosaurs in it as the other. He moved 18 to
+the other container so that the two containers had the same number.
+How many dinosaurs are in Theo’s collection?
+(A) 40
+(B) 45
+(C) 50
+(D) 55
+(E) 60
+10. Eiliyah is drawing an isosceles triangle on the
+number plane. It has an area of 6 square units.
+She has already plotted two vertices of the
+triangle, at (1, 1) and (3, 1).
+Which of the following could be the coordinates
+of the third vertex of the triangle?
+(A) (2, 3)
+(B) (2, 4)
+(C) (2, 6)
+(D) (2, −3)
+(E) (2, −5)
+−4
+−2
+Questions 11 to 20, 4 marks each
+11. Yalis has to take a tablet every 9 hours. The course of medication is 15 tablets. He
+takes his first tablet at 11 am on Tuesday. When will he take his last tablet?
+(A) 2 pm Wednesday
+(B) 5 am Friday
+(C) 5 pm Sunday
+(D) 4 am Monday
+(E) 8 pm Tuesday
+12. How many digits are in the number 2024?
+(A) 7
+(B) 10
+(C) 12
+(D) 18
+(E) 81
+13. In the diagram, the concentric
+circles are equally spaced, with radii
+from 1 to 6, and the lines from the
+origin are equally spaced 20◦apart.
+Which of these five areas is largest?
+(A) A
+(B) B
+(C) C
+(D) D
+(E) E
+20◦
+A
+40◦
+B
+60◦
+C
+80◦
+D
+100◦
+E
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+14. Kate and Jim exercise at their local beach, going from one end to the other and
+back. Starting together, Kate jogs at a steady pace of 10 km per hour, while Jim
+walks at 6 km per hour. They first meet again after 30 minutes. How long, in
+kilometres, is the beach?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+15. This star has order-10 rotational symmetry, with 10 internal
+right angles as shown. What is the size of each of the obtuse
+angles marked with a dot?
+(A) 120◦
+(B) 126◦
+(C) 132◦
+(D) 138◦
+(E) 142◦
+16. A game uses the two spinners shown. The
+player who spins the higher number wins.
+Equal spins are a draw.
+What is the probability that player one
+wins?
+(A) 1
+(B) 1
+(C) 1
+(D) 2
+(E) 5
+Player one
+Player two
+17. When the number 9045 is split into two 2-digit numbers, the first number is twice
+the second number: 90 = 2 × 45. Many other 4-digit numbers can be split into two
+2-digit numbers where the first number is twice the second.
+There is a unique 2-digit number that divides into all such 4-digit numbers. What
+is this number?
+(A) 18
+(B) 35
+(C) 45
+(D) 52
+(E) 67
+18. Triangle ABC has a right angle at A, and side AC is twice as
+long as AB. Also MN is the perpendicular bisector of BC,
+as shown.
+In area, what fraction of △ABC is △CMN?
+(A) 1
+(B)
+√
+(C) 2
+(D)
+√
+(E) 5
+A
+B
+C
+M
+N
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+19. A researcher surveys 10 households and creates this
+scatterplot showing how many people and how
+many internet-connected devices are in each house.
+To help categorise her data, she adds a vertical line
+representing the median number of people and a
+horizontal line representing the median number of
+devices.
+One extra household is surveyed and the results are
+added to the scatterplot. What will happen to the
+median lines?
+devices
+people
+(A) Both lines move.
+(C) Only the vertical line moves.
+(B) Neither line moves.
+(D) Only the horizontal line moves.
+(E) It depends on the location of the new point.
+20. I make up all the 5 digit numbers that use each of the digits from 1 to 5 once.
+I then arrange these 120 numbers in increasing order from 12 345 to 54 321.
+Which number is the 42nd in this order?
+(A) 15 234
+(B) 21 354
+(C) 23 154
+(D) 24 531
+(E) 24 513
+Questions 21 to 25, 5 marks each
+21. A tank in the shape of a rectangular
+prism has dimensions as shown. It
+contains water to a depth of 12 cm.
+A solid cube of side 20 cm is placed
+into the tank, with one face flat on the
+bottom of the tank.
+By how much will the water level in the tank increase?
+50 cm
+12 cm
+12 cm
+40 cm
+24 cm
+(A) 3 cm
+(B) 4 cm
+(C) 5 cm
+(D) 8 cm
+(E) 12 cm
+22. February 2024 had 5 Thursdays. When will February next have 5 Thursdays?
+(A) 2028
+(B) 2044
+(C) 2048
+(D) 2052
+(E) 2080
+23. A group of tourists stayed in two rooms when visiting a museum. The average age
+of the tourists in the first room was 45 and the average age of the tourists in the
+second room was 20. When one tourist walked from the first room to the second,
+the average ages in each room increased by 1. If the second group had 7 more
+tourists at the beginning, what was the age of the tourist who moved rooms?
+(A) 36
+(B) 37
+(C) 38
+(D) 39
+(E) 40
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+24. Abi is walking beside a lake. In the distance she can see a tree and its reflection on
+the surface of the lake. There is a depth indicator 5 metres away from her with its
+0-metre mark at the lake surface level.
+Abi
+Depth
+indicator
+From Abi’s point of view, the top of the tree is in line with the 1.8-metre mark on
+the depth indicator, while the reflection of the top of the tree is in line with the
+1.1-metre mark. Abi’s eyes are level with the 1.5-metre mark. How tall is the tree
+in metres?
+(A) 9
+(B) 9.5
+(C) 10
+(D) 10.5
+(E) 11
+25. Six maths students, Amy, Bao, Cecil, Daria, Emilia and Felipe are given
+60 problems to complete over the weekend. Although none of them completes all
+60, each completes at least 52 of the problems, and each one completes a different
+number of problems. Also the order from least to most problems is the same as the
+alphabetical order of their names. Finally, each of them completes k times as many
+problems on Saturday as they do on Sunday, where k is a different whole number
+from 1 to 6 for each of them.
+Which of them completed 3 times as many problems on Saturday as on Sunday?
+(A) Amy
+(B) Bao
+(C) Cecil
+(D) Daria
+(E) Emilia
+For questions 26 to 30, shade the answer as an integer from 0 to 999
+in the space provided on the answer sheet.
+Questions 26–30 are worth 6, 7, 8, 9 and 10 marks, respectively.
+26. In the multiplication puzzle shown, a, b and c represent different digits.
+a a b b
+×
+c
+c b b c
+There is more than one way to solve this puzzle. What is the sum of all possible
+three-digit numbers of the form abc?
+AMC2024 Final — cleaned copy
+15/8/2024
+4 Intermediate
+27. Rodney builds increasingly large shapes out of unit rods. The smallest uses six rods
+and each larger shape adds a layer of hexagons around the previous shape.
+Starting with 2024 rods, Rodney builds a single shape like this, as large as possible.
+How many rods will he have left over?
+28. Let x, y and z be positive integers satisfying the following three equations:
+xy + x + y
+=
+yz + y + z
+=
+zx + z + x
+=
+728.
+What is the value of x + y + z?
+29. Tim uses plug-in timers to automate his indoor plant
+lighting. Each timer has a plug on the back, a socket on
+the front, and a motorised dial that rotates once for every
+24 hours that the plug has power.
+When the time on the dial is between 9:00 and 17:00, the
+timer switch is on, so that any power on the plug is
+switched through to the socket.
+For fun, he plugs together three of his timers, all set to
+time 0:00, with a lamp plugged into the front socket. How
+many hours until the lamp turns on?
+
+30. A triangle, △ABC, has sides AB = 18, AC = 24, and BC = 30. Point P is on side
+AB and a line is drawn through P so that half of the perimeter of △ABC lies on
+each side of the line and half of the area of △ABC lies on each side of the line.
+What is the square of the distance CP?
+AMC2024 Final — cleaned copy
+15/8/2024
