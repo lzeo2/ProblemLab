@@ -8,6 +8,7 @@
 #include <array>
 #include <utility>
 #include <algorithm>
+#include <cmath>
 
 
 using json = nlohmann::json;
@@ -59,6 +60,20 @@ int main(){
     std::array<std::string, 5> classes = {"Algebra", "Geometry", "Number Theory", "Counting & Probability", "Precalculus"};
     
     std::cout << "\n"<<"Predicted: " << classes[predicted_class]; 
+    float max_logit = *maximums;
+    std::array<double, 5> exponentials = {};
+    double sum = 0.0;
+    for (int i = 0; i < 5; i++) {
+
+        exponentials[i] = std::exp(logits[i] - max_logit);
+        sum += exponentials[i];
+    }
+    for (int i = 0; i < 5; i++){
+        exponentials[i] = exponentials[i] / sum;
+        std::cout << exponentials[i];
+
+        
+    }
     return 0;
     
 }
