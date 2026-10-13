@@ -11,5 +11,31 @@
     ],
     "cwd": "$ZED_WORKTREE_ROOT",
     "reveal": "always"
+  },
+  {
+    "label": "Test ONNX Runtime smoke test",
+    "command": "powershell.exe",
+    "args": [
+      "-NoProfile",
+      "-ExecutionPolicy",
+      "Bypass",
+      "-File",
+      ".zed/test-onnxruntime.ps1"
+    ],
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "reveal": "always"
+  },
+  {
+    "label": "Build and Run ONNX inference.cpp",
+    "command": "powershell.exe",
+    "args": [
+      "-NoProfile",
+      "-ExecutionPolicy",
+      "Bypass",
+      "-File",
+      ".zed/build-inference.ps1"
+    ],
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "reveal": "always"
   }
 ]
