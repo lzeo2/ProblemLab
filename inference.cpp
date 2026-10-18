@@ -71,7 +71,26 @@ ClassifiedResult classify_one(Ort::Session& session, std::vector<int64_t> input_
     return result;
 };
 
+std::array<double,5> soft_max_w_temp(const std::array<float, 5>&logits, double temp) {
+    double sum =0;
+    double max_logit = 0.0;
+    max_logit = *std::max_element(logits.begin(), logits.end());
+    std::array<double,5> probabilities = {};
+    for (int i = 0; i < 5; i++){
+         probabilities[i] = std::exp((logits[i] - max_logit)/temp);
+         sum = sum + probabilities[i];
+    }
+    for (int i = 0; i < 5; i++){
 
+
+        probabilities[i]= probabilities[i]/sum;
+    }
+    return probabilities;
+    
+   
+
+    
+}
 int main(){
     Ort::Env env(ORT_LOGGING_LEVEL_WARNING, "ONNX_Runtime_Log");
     Ort::SessionOptions session_options;
