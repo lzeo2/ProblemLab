@@ -11,15 +11,50 @@
 #include <cmath>
 
 
+struct Prediction {
+    int ID;
+    std::string category;
+    double probability;
+    
+};
 using json = nlohmann::json;
 
 struct ClassifiedResult {
-    int class_id;
-    std::string category;
-    double probability;
-    std::array<float, 5> logits;
+    std::vector<float> logits;
+    Prediction primary;
+    Prediction secondary;
 };
-
+// use a const ref
+// code safety+ easier to do ()
+int Getsecondhighestlogit(const std::vector<float>& logics) {
+    
+    int largest_index = 0;
+    int second_index = 0;
+    if (logics[0] > logics[1]) {
+        largest_index = 0;
+        second_index = 1;
+        
+        
+    }
+    else {
+        largest_index = 1;
+        second_index = 0;
+    }
+    // for loop ig
+    for (size_t i = 2; i < logics.size(); i++){
+        if(logics[i] > logics[largest_index]){
+            second_index = largest_index;
+            largest_index = i;
+        }
+        else if (logics[i] > logics[second_index]) {
+            second_index = i;
+        
+        }
+    }
+    return second_index;
+    
+    
+}
 ClassifiedResult classify_one(Ort::Session& session, std::vector<int64_t> input_ids, std::vector<int64_t> attention_mask) {
     std::vector<int64_t> input_shape ={1, static_cast<int64_t>(input_ids.size())};
     //std::cout << input_ids.size() <<"," << attention_mask.size();
@@ -35,7 +70,8 @@ ClassifiedResult classify_one(Ort::Session& session, std::vector<int64_t> input_
     const char* output_names[] = {"logits"};
     auto outputs = session.Run(Ort::RunOptions{nullptr}, input_names, tensors.data(), 2, output_names, 1);
     const float* logits = outputs[0].GetTensorData<float>();
-    std::array<float, 5> saved_logits;
+    std::vector<float> saved_logits;
+    saved_logits.resize(5);
     std::copy(logits, logits + 5, saved_logits.begin());
     for (int i = 0; i < 5; i++){
         //std::cout << "\n" << logits[i];
@@ -43,7 +79,7 @@ ClassifiedResult classify_one(Ort::Session& session, std::vector<int64_t> input_
         
     }
     auto maximums = std::max_element(logits, logits+5);
-    int64_t predicted_class = maximums - logits;
+    int predicted_class = maximums - logits;
     std::array<std::string, 5> classes = {"Algebra", "Geometry", "Number Theory", "Counting & Probability", "Precalculus"};
     
     //std::cout << "\n"<<"Predicted: " << classes[predicted_class]; 
@@ -59,19 +95,29 @@ ClassifiedResult classify_one(Ort::Session& session, std::vector<int64_t> input_
         exponentials[i] = exponentials[i] / sum;
         //std::cout << exponentials[i];
 
+
     }
-    ClassifiedResult result = {predicted_class, classes[predicted_class], exponentials[predicted_class], saved_logits};
-        //struct ClassifiedResult {
-           // int class_id;
-            //std::string category;
-            //double probability;
-            
-       // };
+
+   // struct Prediction {
+        //int ID;
+       // std::string category;
+        //double probability;
+        
+        //};
+    Prediction largest = {predicted_class, classes[predicted_class], exponentials[predicted_class]};
+    auto secondary_index_class = Getsecondhighestlogit(saved_logits);
+    Prediction secondlargest = {secondary_index_class, classes[secondary_index_class], exponentials[secondary_index_class]};
     
+    ClassifiedResult result = {saved_logits, largest, secondlargest};
+        //struct ClassifiedResult {
+           // std::array<float, 5> logits;
+            //Prediction primary;
+           // Prediction secondary;
+           //};
     return result;
 };
 
-std::array<double,5> soft_max_w_temp(const std::array<float, 5>&logits, double temp) {
+std::array<double,5> soft_max_w_temp(const std::vector<float>&logits, double temp) {
     double sum =0;
     double max_logit = 0.0;
     max_logit = *std::max_element(logits.begin(), logits.end());
@@ -91,6 +137,8 @@ std::array<double,5> soft_max_w_temp(const std::array<float, 5>&logits, double t
 
     
 }
+
+
 int main(){
     Ort::Env env(ORT_LOGGING_LEVEL_WARNING, "ONNX_Runtime_Log");
     Ort::SessionOptions session_options;
