@@ -172,27 +172,37 @@ int main(){
             attention_mask = tokenised[i]["attention_mask"].get<std::vector<int64_t>>();
         
             ClassifiedResult returnedvalue = classify_one(session, input_ids, attention_mask);
-            std::cout << "\n" << returnedvalue.category << "\n" << returnedvalue.probability;
+            std::cout << "\n" << returnedvalue.primary.category << "\n" << returnedvalue.secondary.category;
             resultsclassed.push_back(returnedvalue);
             json j;
             j["question_id"] = i+1;
-            j["class_id"] = returnedvalue.class_id;
-            j["category"] = returnedvalue.category;
-                j["probability"] = returnedvalue.probability;
-                    j["model_version"] = "checkpoint-4689";
-            j["logits"] = returnedvalue.logits;
-            for (int i = 0; i < 3; i++){
-                double temp_temperature = scales[i];
-                auto valuedl = soft_max_w_temp(returnedvalue.logits, temp_temperature);
-                
-                temperaturedonevalues.push_back(valuedl);
-                
+            j["primary_class_id"] = returnedvalue.primary.ID;
+            j["primary_category"] = returnedvalue.primary.category;
+            j["primary_probability"] = returnedvalue.primary.probability;
+            j["secondary_class_id"] = returnedvalue.secondary.ID;
+            j["secondary_category"] = returnedvalue.secondary.category;
+            j["secondary_probability"] = returnedvalue.secondary.probability;
+            j["logits"] = returnedvalue.logits; 
+            j["model_version"] = "checkpoint-4689";
+            for(int i = 0; i < 3; i++){
+                std::array<double,5> softmaxedtempval = soft_max_w_temp(returnedvalue.logits,  scales[i]);
+                temperaturedonevalues.push_back(softmaxedtempval);
             }
             j["test_temps"] = temperaturedonevalues;
+            //soft_max_w_temp(const std::vector<float>&logits, double temp) {
             jj.push_back(j);
-
+            //struct ClassifiedResult {
+               // std::vector<float> logits;
+               // Prediction primary;
+               // Prediction secondary;
+               //  };
             
-            
+               // struct Prediction {
+                    //int ID;
+                   // std::string category;
+                    //double probability;
+                    
+                    //};
         }
         std::ofstream ofile("test2024q.json");
         ofile << jj.dump(4);

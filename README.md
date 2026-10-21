@@ -4,4 +4,4 @@ ModernBERT model exported to ONNX to classify competition maths questions locall
 
 
 
-PDF -> OCR -> main.cpp -> tokenisation -> inference.cpp -> ONNX -> ModernBERT classif -> logits -> softamx and argmax -> temperature scaling -> json classifyiong
+PDF -> OCR -> main.cpp -> tokenisation -> inference.cpp -> ONNX -> ModernBERT classif -> logits -> softamx and argmax -> temperature scaling -> json classifyiong 

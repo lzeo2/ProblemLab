@@ -1,7 +1,5 @@
 [
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             14.2130126953125,
             -5.520905494689941,
@@ -10,8 +8,13 @@
             -3.271977424621582
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999985590798773,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999985590798773,
         "question_id": 1,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 8.866535111022532e-07,
         "test_temps": [
             [
                 0.9999985590799733,
@@ -37,8 +40,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             11.613825798034668,
             -9.866137504577637,
@@ -47,8 +48,13 @@
             -3.026355504989624
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9947339735970379,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9947339735970379,
         "question_id": 2,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 0.0051901361714674875,
         "test_temps": [
             [
                 0.994733973388315,
@@ -74,8 +80,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             15.246957778930664,
             -2.397024154663086,
@@ -84,8 +88,13 @@
             -3.615572690963745
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999999348951976,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999999348951976,
         "question_id": 3,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 3.6509324740141026e-08,
         "test_temps": [
             [
                 0.9999999348951942,
@@ -111,8 +120,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             18.138511657714844,
             -6.9960432052612305,
@@ -121,8 +128,13 @@
             -1.0736390352249146
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999999808697247,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999999808697247,
         "question_id": 4,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 1.3651961078012564e-08,
         "test_temps": [
             [
                 0.9999999808697294,
@@ -148,8 +160,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             11.951906204223633,
             6.207629203796387,
@@ -158,8 +168,13 @@
             -4.450421333312988
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9968089935432745,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9968089935432745,
         "question_id": 5,
+        "secondary_category": "Geometry",
+        "secondary_class_id": 1,
+        "secondary_probability": 0.0031908335574910448,
         "test_temps": [
             [
                 0.9968089935940316,
@@ -185,8 +200,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             15.921382904052734,
             -4.382707118988037,
@@ -195,8 +208,13 @@
             -3.259294271469116
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999994143607119,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999994143607119,
         "question_id": 6,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 5.793985468836468e-07,
         "test_temps": [
             [
                 0.9999994143604601,
@@ -222,8 +240,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             13.33991813659668,
             -9.620798110961914,
@@ -232,8 +248,13 @@
             -3.677105665206909
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999457393482767,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999457393482767,
         "question_id": 7,
+        "secondary_category": "Number Theory",
+        "secondary_class_id": 2,
+        "secondary_probability": 5.2561732432376346e-05,
         "test_temps": [
             [
                 0.9999457393726787,
@@ -259,8 +280,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             12.035039901733398,
             -0.2409582883119583,
@@ -269,8 +288,13 @@
             -5.726229667663574
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999922617483872,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999922617483872,
         "question_id": 8,
+        "secondary_category": "Geometry",
+        "secondary_class_id": 1,
+        "secondary_probability": 4.662280690919304e-06,
         "test_temps": [
             [
                 0.9999922617480126,
@@ -296,8 +320,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             11.368143081665039,
             -9.801420211791992,
@@ -306,8 +328,13 @@
             -4.448973178863525
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9998497601101968,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9998497601101968,
         "question_id": 9,
+        "secondary_category": "Number Theory",
+        "secondary_class_id": 2,
+        "secondary_probability": 0.0001050157314162039,
         "test_temps": [
             [
                 0.9998497601126598,
@@ -333,8 +360,6 @@
         ]
     },
     {
-        "category": "Geometry",
-        "class_id": 1,
         "logits": [
             1.6646385192871094,
             7.3916015625,
@@ -343,8 +368,13 @@
             1.158506155014038
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.994719138931339,
+        "primary_category": "Geometry",
+        "primary_class_id": 1,
+        "primary_probability": 0.994719138931339,
         "question_id": 10,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 0.0032397540350009887,
         "test_temps": [
             [
                 0.0032397539393247987,
@@ -370,8 +400,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             13.870121002197266,
             -6.969371795654297,
@@ -380,8 +408,13 @@
             -2.7358155250549316
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999956145208836,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999956145208836,
         "question_id": 11,
+        "secondary_category": "Number Theory",
+        "secondary_class_id": 2,
+        "secondary_probability": 4.237945690895167e-06,
         "test_temps": [
             [
                 0.9999956145230299,
@@ -407,8 +440,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             11.072104454040527,
             -11.737743377685547,
@@ -417,8 +448,13 @@
             -6.651491165161133
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9848109725680156,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9848109725680156,
         "question_id": 12,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 0.014049643645582685,
         "test_temps": [
             [
                 0.9848109721670916,
@@ -444,8 +480,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             10.235563278198242,
             0.5173659324645996,
@@ -454,8 +488,13 @@
             -0.8441141247749329
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999234316781977,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999234316781977,
         "question_id": 13,
+        "secondary_category": "Geometry",
+        "secondary_class_id": 1,
+        "secondary_probability": 6.017380448089589e-05,
         "test_temps": [
             [
                 0.9999234317047073,
@@ -481,8 +520,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             14.633808135986328,
             -3.560159921646118,
@@ -491,8 +528,13 @@
             -4.453210830688477
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999998049063866,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999998049063866,
         "question_id": 14,
+        "secondary_category": "Number Theory",
+        "secondary_class_id": 2,
+        "secondary_probability": 1.6300820621698073e-07,
         "test_temps": [
             [
                 0.9999998049064686,
@@ -518,8 +560,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             5.180844306945801,
             -0.47595903277397156,
@@ -528,8 +568,13 @@
             2.7540621757507324
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9158418526060814,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9158418526060814,
         "question_id": 15,
+        "secondary_category": "Precalculus",
+        "secondary_class_id": 4,
+        "secondary_probability": 0.08088768645421252,
         "test_temps": [
             [
                 0.9158418559104753,
@@ -555,8 +600,6 @@
         ]
     },
     {
-        "category": "Counting & Probability",
-        "class_id": 3,
         "logits": [
             4.0624895095825195,
             -5.137696743011475,
@@ -565,8 +608,13 @@
             -2.7293589115142822
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9953852322831402,
+        "primary_category": "Counting & Probability",
+        "primary_class_id": 3,
+        "primary_probability": 0.9953852322831402,
         "question_id": 16,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 0.004607908557596569,
         "test_temps": [
             [
                 0.004607908699362037,
@@ -592,8 +640,6 @@
         ]
     },
     {
-        "category": "Number Theory",
-        "class_id": 2,
         "logits": [
             3.195611000061035,
             -13.113496780395508,
@@ -602,8 +648,13 @@
             -6.70734977722168
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9995731607609833,
+        "primary_category": "Number Theory",
+        "primary_class_id": 2,
+        "primary_probability": 0.9995731607609833,
         "question_id": 17,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 0.00033477976088980814,
         "test_temps": [
             [
                 9.205486586951177e-05,
@@ -629,8 +680,6 @@
         ]
     },
     {
-        "category": "Geometry",
-        "class_id": 1,
         "logits": [
             -1.9765701293945313,
             6.760133743286133,
@@ -639,8 +688,13 @@
             2.380209445953369
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9874596562982043,
+        "primary_category": "Geometry",
+        "primary_class_id": 1,
+        "primary_probability": 0.9874596562982043,
         "question_id": 18,
+        "secondary_category": "Precalculus",
+        "secondary_class_id": 4,
+        "secondary_probability": 0.01236922305673731,
         "test_temps": [
             [
                 0.0001585685589307782,
@@ -666,8 +720,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             15.23303508758545,
             -6.093725204467773,
@@ -676,8 +728,13 @@
             -2.404113531112671
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999998029228345,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999998029228345,
         "question_id": 19,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 1.3373377989537771e-07,
         "test_temps": [
             [
                 0.9999998029228234,
@@ -703,8 +760,6 @@
         ]
     },
     {
-        "category": "Counting & Probability",
-        "class_id": 3,
         "logits": [
             6.16019868850708,
             -12.564486503601074,
@@ -713,8 +768,13 @@
             -4.645429611206055
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9837877878866415,
+        "primary_category": "Counting & Probability",
+        "primary_class_id": 3,
+        "primary_probability": 0.9837877878866415,
         "question_id": 20,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 0.009743363679188276,
         "test_temps": [
             [
                 0.00974336356264948,
@@ -740,8 +800,6 @@
         ]
     },
     {
-        "category": "Geometry",
-        "class_id": 1,
         "logits": [
             -0.4093274474143982,
             15.348726272583008,
@@ -750,8 +808,13 @@
             -2.3487422466278076
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999998325035678,
+        "primary_category": "Geometry",
+        "primary_class_id": 1,
+        "primary_probability": 0.9999998325035678,
         "question_id": 21,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 1.4333891315535636e-07,
         "test_temps": [
             [
                 1.4333892766124295e-07,
@@ -777,8 +840,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             9.318363189697266,
             -10.345742225646973,
@@ -787,8 +848,13 @@
             -3.3616089820861816
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.7461898462527108,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.7461898462527108,
         "question_id": 22,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 0.25366316512224374,
         "test_temps": [
             [
                 0.7461898516145999,
@@ -814,8 +880,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             15.031679153442383,
             -7.470554828643799,
@@ -824,8 +888,13 @@
             -4.439899444580078
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999982482183615,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999982482183615,
         "question_id": 23,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 1.6360389498121138e-06,
         "test_temps": [
             [
                 0.9999982482180721,
@@ -851,8 +920,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             8.1929349899292,
             7.106362342834473,
@@ -861,8 +928,13 @@
             -2.9375290870666504
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.7477217672510036,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.7477217672510036,
         "question_id": 24,
+        "secondary_category": "Geometry",
+        "secondary_class_id": 1,
+        "secondary_probability": 0.2522595004351972,
         "test_temps": [
             [
                 0.7477217726291014,
@@ -888,8 +960,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             8.95523738861084,
             -13.376797676086426,
@@ -898,8 +968,13 @@
             -5.981135368347168
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.5468353481046873,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.5468353481046873,
         "question_id": 25,
+        "secondary_category": "Counting & Probability",
+        "secondary_class_id": 3,
+        "secondary_probability": 0.45169087306439937,
         "test_temps": [
             [
                 0.5468353479540112,
@@ -925,8 +1000,6 @@
         ]
     },
     {
-        "category": "Counting & Probability",
-        "class_id": 3,
         "logits": [
             7.724139213562012,
             -11.850775718688965,
@@ -935,8 +1008,13 @@
             -5.737970352172852
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.8085786103776911,
+        "primary_category": "Counting & Probability",
+        "primary_class_id": 3,
+        "primary_probability": 0.8085786103776911,
         "question_id": 26,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 0.19072603049356962,
         "test_temps": [
             [
                 0.19072603252639742,
@@ -962,8 +1040,6 @@
         ]
     },
     {
-        "category": "Number Theory",
-        "class_id": 2,
         "logits": [
             5.361067771911621,
             -0.9238254427909851,
@@ -972,8 +1048,13 @@
             -10.352762222290039
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9220115649752643,
+        "primary_category": "Number Theory",
+        "primary_class_id": 2,
+        "primary_probability": 0.9220115649752643,
         "question_id": 27,
+        "secondary_category": "Algebra",
+        "secondary_class_id": 0,
+        "secondary_probability": 0.07748223263674242,
         "test_temps": [
             [
                 0.07748223398387996,
@@ -999,8 +1080,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             13.158201217651367,
             -6.40765380859375,
@@ -1009,8 +1088,13 @@
             1.8582112789154053
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9999874820726142,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9999874820726142,
         "question_id": 28,
+        "secondary_category": "Precalculus",
+        "secondary_class_id": 4,
+        "secondary_probability": 1.2372896619295002e-05,
         "test_temps": [
             [
                 0.9999874820754135,
@@ -1036,8 +1120,6 @@
         ]
     },
     {
-        "category": "Algebra",
-        "class_id": 0,
         "logits": [
             5.093472957611084,
             -1.6793872117996216,
@@ -1046,8 +1128,13 @@
             -3.3049988746643066
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9123617836828715,
+        "primary_category": "Algebra",
+        "primary_class_id": 0,
+        "primary_probability": 0.9123617836828715,
         "question_id": 29,
+        "secondary_category": "Number Theory",
+        "secondary_class_id": 2,
+        "secondary_probability": 0.08460490620400027,
         "test_temps": [
             [
                 0.9123617850027883,
@@ -1073,8 +1160,6 @@
         ]
     },
     {
-        "category": "Geometry",
-        "class_id": 1,
         "logits": [
             1.360128402709961,
             10.585875511169434,
@@ -1083,8 +1168,13 @@
             1.4544874429702759
         ],
         "model_version": "checkpoint-4689",
-        "probability": 0.9997933293828808,
+        "primary_category": "Geometry",
+        "primary_class_id": 1,
+        "primary_probability": 0.9997933293828808,
         "question_id": 30,
+        "secondary_category": "Precalculus",
+        "secondary_class_id": 4,
+        "secondary_probability": 0.00010819294539482694,
         "test_temps": [
             [
                 9.845078292533797e-05,
