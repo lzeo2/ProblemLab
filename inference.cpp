@@ -116,8 +116,10 @@ int main(){
     json jj = json::array();
     // in between these comments, for loop to 31
     // 
-    
+    std::array<double, 3>scales = {1.0, 2.0, 5.0};
         for (size_t i = 0; i < tokenised.size(); i++) {
+            std::vector<std::array<double, 5>> temperaturedonevalues;
+
             input_ids = tokenised[i]["input_ids"].get<std::vector<int64_t>>();
             attention_mask = tokenised[i]["attention_mask"].get<std::vector<int64_t>>();
         
@@ -131,12 +133,23 @@ int main(){
                 j["probability"] = returnedvalue.probability;
                     j["model_version"] = "checkpoint-4689";
             j["logits"] = returnedvalue.logits;
+            for (int i = 0; i < 3; i++){
+                double temp_temperature = scales[i];
+                auto valuedl = soft_max_w_temp(returnedvalue.logits, temp_temperature);
+                
+                temperaturedonevalues.push_back(valuedl);
+                
+            }
+            j["test_temps"] = temperaturedonevalues;
             jj.push_back(j);
+
+            
             
         }
         std::ofstream ofile("test2024q.json");
         ofile << jj.dump(4);
           //.    
+    
     return 0;
     
 }
