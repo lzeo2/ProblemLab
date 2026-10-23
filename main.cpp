@@ -3,6 +3,8 @@
 #include <nlohmann/json.hpp>
 #include <fstream>
 #include <vector>
+#include "inference.hpp"
+
 using json = nlohmann::json;
 
 int main() {
@@ -31,5 +33,15 @@ int main() {
   // we wanna add the json to a vecotr of the questions
   questions_vector = data.get<std::vector<std::string>>();
   std::cout << questions_vector.size();
-  return 0;
+
+  const int tokenization_status = std::system("uv run tokenizer.py");
+  if (tokenization_status != 0) {
+    std::cerr << "Tokenization failed (exit code " << tokenization_status << ").\n";
+    return tokenization_status;
+  }
+
+  return run_inference(
+      "AMC_2024_Intermediate.pdftokenised.json",
+      "test2024q.json"
+  );
 }

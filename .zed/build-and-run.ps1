@@ -6,7 +6,7 @@ $ortInclude = Join-Path $ortRoot 'include'
 $ortLib = Join-Path $ortRoot 'lib'
 $ortDll = Join-Path $ortLib 'onnxruntime.dll'
 
-& g++ -std=c++17 -Wall -Wextra -Wpedantic -I third_party -I $ortInclude main.cpp (Join-Path $ortLib 'onnxruntime.lib') -o problemlab.exe
+& g++ -std=c++17 -Wall -Wextra -Wpedantic -I third_party -I $ortInclude main.cpp inference.cpp (Join-Path $ortLib 'onnxruntime.lib') -o problemlab.exe
 if ($LASTEXITCODE -ne 0) {
     exit $LASTEXITCODE
 }
